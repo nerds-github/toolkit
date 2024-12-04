@@ -42,7 +42,7 @@
     "@types/node": "20.7.1",
     "@types/tunnel": "0.0.3",
     "proxy": "^2.1.1",
-    "@types/proxy": "^1.0.1"
+    "@types/proxy": "^1.0.4"
   },
   "dependencies": {
     "tunnel": "^0.0.6",
