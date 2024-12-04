@@ -46,7 +46,7 @@
     "@actions/github": "^6.0.0",
     "@actions/http-client": "^2.2.3",
     "@octokit/plugin-retry": "^6.0.1",
-    "@sigstore/bundle": "^2.3.2",
+    "@sigstore/bundle": "^3.0.0",
     "@sigstore/sign": "^2.3.2",
     "jose": "^5.2.3"
   },
